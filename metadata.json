@@ -1,0 +1,6 @@
+{
+  "name": "Canaan Clients",
+  "description": "Application professionnelle de gestion commerciale, commandes, rendez-vous, paiements et WhatsApp Cloud API pour Canaan Services (imprimerie & personnalisation).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
